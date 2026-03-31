@@ -1,4 +1,4 @@
-# Turkish LLM Reasoning Faithfulness Benchmark - Sample Dataset
+# Türkçe LLM Muhakeme Sadakati Benchmark - Örnek Veri Seti
 
 Bu veri seti, Türkçe muhakeme görevlerinde LLM'lerin faithfulness ve epistemik kalibrasyonunu değerlendirmek için oluşturulmuştur.
 
